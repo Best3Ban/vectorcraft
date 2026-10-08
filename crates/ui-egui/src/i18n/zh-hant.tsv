@@ -3073,3 +3073,10 @@ axis	Both	兩者
 	Drag to float as a toolbar	拖曳使其浮動為工具列
 	Put back in the toolbar	放回工具列
 	Float Tool Group	浮動工具組
+
+# The macOS menu bar (native_menu): the app and Window menus' system items, Settings pages.
+	Services	服務
+	Hide VectorCraft	隱藏 VectorCraft
+	Zoom	縮放
+	Bring All to Front	將全部移至最前
+	Settings	設定

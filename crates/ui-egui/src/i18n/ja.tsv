@@ -3042,3 +3042,11 @@ axis	Both	両方
 	Drag to float as a toolbar	ドラッグしてツールバーとして浮かせる
 	Put back in the toolbar	ツールバーに戻す
 	Float Tool Group	ツールグループをフローティング
+
+# The macOS menu bar (native_menu): the app and Window menus' system items, Settings pages.
+	Services	サービス
+	Hide VectorCraft	VectorCraft を隠す
+	Zoom	拡大/縮小
+	Bring All to Front	すべてを手前に移動
+	Settings	環境設定
+theme	Appearance	外観

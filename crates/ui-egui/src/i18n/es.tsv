@@ -3573,3 +3573,10 @@ axis	Both	Ambos
 @msg	Reload the page to go on (changes not saved yet may be lost).	Vuelve a cargar la página para continuar (los cambios que aún no se guardaron podrían perderse).
 @msg	tool (a tool id) is required	se requiere tool (un id de herramienta)
 @msg	{tool} isn't in a toolbar group of several tools	{tool} no está en un grupo de la barra de herramientas con varias herramientas
+
+# The macOS menu bar (native_menu): the app and Window menus' system items, Settings pages.
+	Services	Servicios
+	Hide VectorCraft	Ocultar VectorCraft
+	Zoom	Zoom
+	Bring All to Front	Traer todo al frente
+	Settings	Ajustes
